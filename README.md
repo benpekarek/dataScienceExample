@@ -4,11 +4,11 @@
 
 I chose to use the `NYC_Bicycle_Counts_2016_Corrected.csv` dataset, which gives information on bike traffic across a number of bridges in New York City to answer the following questions: 
 
-1. You want to install sensors on the bridges to estimate overall traffic across all the bridges. But you only have enough budget to install sensors on three of the four bridges. Which bridges should you install the sensors on to get the best prediction of overall traffic? (code used to solve in 'problem1.py')
-2. The city administration is cracking down on helmet laws, and wants to deploy police officers on days with high traffic to hand out citations. Can they use the next day's weather forecast to predict the number of bicyclists that day? (code used to solve in 'problem2.py')
-3. Can you use this data to predict whether it is raining based on the number of bicyclists on the bridges? (code used to solve in 'problem3.1.py' and 'problem3.2.py')
+1. You want to install sensors on the bridges to estimate overall traffic across all the bridges. But you only have enough budget to install sensors on three of the four bridges. Which bridges should you install the sensors on to get the best prediction of overall traffic? (code used to solve in `problem1.py`)
+2. The city administration is cracking down on helmet laws, and wants to deploy police officers on days with high traffic to hand out citations. Can they use the next day's weather forecast to predict the number of bicyclists that day? (code used to solve in `problem2.py`)
+3. Can you use this data to predict whether it is raining based on the number of bicyclists on the bridges? (code used to solve in `problem3.1.py` and `problem3.2.py`)
 
-Write up of methods used is in 'report.pdf'
+Write up of methods used is in `report.pdf`
 
 ## Given prompts (from instructor)
 
